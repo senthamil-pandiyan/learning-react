@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-    base: "/learning_react",
+    base: "/learning-react",
   plugins: [react()],
 })
